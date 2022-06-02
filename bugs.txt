@@ -1,0 +1,2 @@
+sometimes the page doesn't reload
+  -the post request doesn't retrieve the new information

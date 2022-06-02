@@ -1,0 +1,4 @@
+todo:
+  -make add and menu full screen on mobile
+  -make text width of list item dynamic
+  -add padding to bottom of todo list div when overflowing
